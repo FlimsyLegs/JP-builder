@@ -1,5 +1,5 @@
-Jessicas Plight.html = itch version
-src/index.html = steam version
+Jessicas Plight_DEMO.html = demo version
+src/index.html = full version (rename as Jessicas_Plight.html before itch.io releases)
 
 # Twine App Builder for Jessica's Plight
 
