@@ -1,3 +1,6 @@
+Jessicas Plight.html = itch version
+src/index.html = steam version
+
 # Twine App Builder for Jessica's Plight
 
 
