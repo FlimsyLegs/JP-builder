@@ -30,7 +30,7 @@ jobs:
           DESCRIPTION: Jessicas Plight
 
           # This must be of the format "N.N.N", where the N's are all numbers
-          VERSION: 3.1.2
+          VERSION: 3.1.3
 
           # By default, the author will be your name on GitHub. You can manually change this.
           AUTHOR: FlimsyLegs
